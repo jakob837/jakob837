@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jakob Sachs</h1>
-<h3 align="center">Electronics engineer for industrial engineering from Germany</h3>
 
-- 🔭 I’m currently working on <br>**Working as an electronics engineer for industrial engineering.<br>Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.<br>Growing my professional and social network with other technology, IT, and cybersecurity professionals.<br>Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises**
+<h2 align="center">- 🔭 I’m currently working on</h2> <br>**Working as an electronics engineer for industrial engineering.<br>Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.<br>Growing my professional and social network with other technology, IT, and cybersecurity professionals.<br>Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises**
 
-- 🌱 I’m currently learning <br>**Cyber Security <br>Microelectronics and code implementation <br>Penetration Testing and Security Assessment Testing**
+<h2 align="center">- 🌱 I’m currently learning</h2> <br>**Cyber Security <br>Microelectronics and code implementation <br>Penetration Testing and Security Assessment Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jakob837?tab=projects](https://github.com/jakob837?tab=projects)
+<h2 align="center">- 👨‍💻 All of my projects are available at</h2> [https://github.com/jakob837?tab=projects](https://github.com/jakob837?tab=projects)
 
-- 📝 I regularly write articles on [https://medium.com/@jakobsachs2005/test-d4aac89cda05](https://medium.com/@jakobsachs2005/test-d4aac89cda05)
+<h2 align="center">- 📝 I regularly write articles on</h2> [https://medium.com/@jakobsachs2005/test-d4aac89cda05](https://medium.com/@jakobsachs2005/test-d4aac89cda05)
 
-- ⚡ In my free time, I... **Jogging Calisthenics Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace**
+<h2 align="center">- ⚡ In my free time, I...</h2> **Jogging Calisthenics Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace**
 
-- 📫 How to reach me **https://www.linkedin.com/in/jakob-sachs-8a7997220/**
+<h2 align="center">- 📫 How to reach me</h2> **https://www.linkedin.com/in/jakob-sachs-8a7997220/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

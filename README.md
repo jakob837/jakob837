@@ -4,13 +4,13 @@
 
 <h2 >🌱 I’m currently learning</h2> <br>Cyber Security <br>Microelectronics and code implementation <br>Penetration Testing and Security Assessment Testing
 
-<h2 > 👨‍💻 All of my projects are available at</h2><p><a href=”https://github.com/jakob837?tab=projects”>Projects</a> </p>
+<h2 > 👨‍💻 All of my projects are available at</h2><p><a href=”https://github.com/jakob837?tab=projects” rel="nofollow">Projects</a> </p>
 
-<h2 >📝 I regularly write articles on</h2><p><a href=”https://medium.com/@jakobsachs2005/test-d4aac89cda05](https://medium.com/@jakobsachs2005/test-d4aac89cda05”>Medium</a> </p>
+<h2 >📝 I regularly write articles on</h2><p><a href=”https://medium.com/@jakobsachs2005/test-d4aac89cda05](https://medium.com/@jakobsachs2005/test-d4aac89cda05”rel="nofollow">Medium</a> </p>
 
 <h2 >⚡ In my free time, I...</h2>do jogging <br>do calisthenics <br>look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace
 
-<h2 >📫 How to reach me</h2> <p><a href=”https://www.linkedin.com/in/jakob-sachs-8a7997220/”>Linkedin</a></p>
+<h2 >📫 How to reach me</h2> <p><a href=”https://www.linkedin.com/in/jakob-sachs-8a7997220/”rel="nofollow">Linkedin</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

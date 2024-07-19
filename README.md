@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <br>**Working as an electronics engineer for industrial engineering.<br>Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.<br>Growing my professional and social network with other technology, IT, and cybersecurity professionals.<br>Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises**
 
-- 🌱 I’m currently learning **Cyber Security Penetration Testing and Security Assessment Testing Microelectronics and code implementation**
+- 🌱 I’m currently learning <br>**Cyber Security <br>Microelectronics and code implementation <br>Penetration Testing and Security Assessment Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakob837?tab=projects](https://github.com/jakob837?tab=projects)
 

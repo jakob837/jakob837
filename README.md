@@ -8,7 +8,7 @@
 
 <h2 >📝 I regularly write articles on</h2> [https://medium.com/@jakobsachs2005/test-d4aac89cda05](https://medium.com/@jakobsachs2005/test-d4aac89cda05)
 
-<h2 >⚡ In my free time, I...</h2> Jogging <br>Calisthenics <br>Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace
+<h2 >⚡ In my free time, I...</h2>do jogging <br>do calisthenics <br>look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace
 
 <h2 >📫 How to reach me</h2> https://www.linkedin.com/in/jakob-sachs-8a7997220/
 

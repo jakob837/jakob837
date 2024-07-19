@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakob Sachs</h1>
 <h3 align="center">Electronics engineer for industrial engineering from Germany</h3>
 
-- 🔭 I’m currently working on <br>**Growing my professional and social network with other technology, IT, and cybersecurity professionals.<br>Working as an electronics engineer for industrial engineering.<br>Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.<br>Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises**
+- 🔭 I’m currently working on <br>**Working as an electronics engineer for industrial engineering.<br>Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.<br>Growing my professional and social network with other technology, IT, and cybersecurity professionals.<br>Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises**
 
 - 🌱 I’m currently learning **Cyber Security Penetration Testing and Security Assessment Testing Microelectronics and code implementation**
 
